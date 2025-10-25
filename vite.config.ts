@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/1.2.4-Cars-sale"
+  base: "/1.2.7.-props"
 })
