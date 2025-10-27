@@ -1,6 +1,6 @@
 import './App.css';
-import Description from './components/Description';
-import Main from './components/Main';
+import Description from './components/Description/Description';
+import Main from './components/Main/Main';
 import { UserProfileProps } from "./types/user";
 
 const userProfile: UserProfileProps = {

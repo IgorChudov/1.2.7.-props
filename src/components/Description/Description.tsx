@@ -1,5 +1,5 @@
-import defaultUserPhoto from '../assets/photo-default.svg';
-import { UserProfileProps } from '../types/user';
+import defaultUserPhoto from '../../assets/photo-default.svg';
+import { UserProfileProps } from '../../types/user';
 
 type DescriptionProps = {
   user: UserProfileProps;

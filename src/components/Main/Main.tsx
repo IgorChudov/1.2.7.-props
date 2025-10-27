@@ -1,5 +1,5 @@
-import Card from "./Card";
-import { UserProfileProps } from "../types/user";
+import Card from "../Card/Card";
+import { UserProfileProps } from "../../types/user";
 
 type MainProps = {
   user: UserProfileProps;
